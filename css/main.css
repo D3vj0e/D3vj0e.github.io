@@ -1296,3 +1296,8 @@ tbody {
   vertical-align: middle;
   display: grid;
 }
+
+
+.mini_title{
+  text-align: center;
+}
